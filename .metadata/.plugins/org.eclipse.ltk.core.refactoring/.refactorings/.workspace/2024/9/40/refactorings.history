@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 4 resources" deleteContents="false" description="Delete 4 resources" element1="/0-3.SimpleTCPCalculatorClient(Blank)" element2="/0-3.SimpleTCPCalculatorServer(Blank)" element3="/2.SimpleWebClient(Blank)" element4="/2.SimpleWebServer(Blank)" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="4" stamp="1727676463298"/>
+</session>
